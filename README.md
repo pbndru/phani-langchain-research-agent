@@ -73,7 +73,8 @@ The Standard Agent attempts to download the book but is restricted by direct con
 ### LangSmith Tracing Dashboard
 Through LangSmith, you can visualize the exact reasoning trace. You can watch the Deep Agent break down the user request, call `fetch_text_from_url`, and process sub-agent task distributions.
 
+### LangSmith Project Create Agent Trace
 ![LangSmith Project Create Agent Trace](langsmith_create_agent_trace.png)
 
-
+### LangSmith Project Deep Agent Trace
 ![LangSmith Project Deep Agent Trace](langsmith_deep_agent_trace.png)
